@@ -4,6 +4,13 @@ This project involves the development of a recognition algorithm used to classif
 
 # Informative video
 
+
+
+https://user-images.githubusercontent.com/93932346/193940042-2c36bf12-58db-47ab-b82f-d7bc754a13ef.mp4
+
+
+
+
 # Final report
 
 ![Reporte_DSP_page-0001.jpg](DSP%20project%20129f832ea4ca4312bcc4b33e99b79922/Reporte_DSP_page-0001.jpg)
